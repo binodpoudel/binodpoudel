@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @binodpoudel
 - 🌱 I’m currently learning TypeScript and MySQL
 - 🔭 I’m currently working on HTML, CSS, JavaScript, ReactJs, Bootstrap, Material UI, Redux, RestAPI, NodeJs, Express and Mongodb.
-- 💞️ I’m looking to collaborate on Front-end web Developer or Full Stack web Developer.
 - 📫 How to reach me: email,LinkedIn,Xing and Indeed.
-- 🤔 I’m looking for work
-- 💬 Ask me about Front-end web Developer or MERN-Stack Developer.
+- 🤔 I’m looking to work as a front-end web developer.
+- 💬 Ask me about: Front-end web Developer or MERN-Stack Developer.
 - 😄 Pronouns: YES
-- ⚡ Fun fact: I am Funny love to laugh, meet people's and I love to Code.
+- ⚡ Fun fact: I am funny, I love to laugh, I love to meet people, and I love to code.
+- Email: footandshadows@gmail.com
 
 
 Languages and Tools:
