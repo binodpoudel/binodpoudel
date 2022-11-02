@@ -31,9 +31,13 @@ Example of Work :
 ![portfolio (28)](https://user-images.githubusercontent.com/52706075/199478446-9db1c7d9-a4e4-44fe-a6a5-41e0c2a11336.png)
 
 ![e-commerce2 (2)](https://user-images.githubusercontent.com/52706075/199478261-1bda1cad-9961-4c8e-8e2b-20cf2f810728.png)
-![Screenshot (22)](https://user-images.githubusercontent.com/52706075/199478392-91c0f5a2-259a-4b73-9b76-a402cf4283b3.png)
+
+![Pizza](https://user-images.githubusercontent.com/52706075/199595044-cc6d19a5-9123-40eb-9d27-65a80fc8c030.png)
 
 
+![Screenshot (23)](https://user-images.githubusercontent.com/52706075/199595135-2ca7f18c-e7b9-4462-a8a9-0555ac33c315.png)
+
+![e-commerce4 (2)](https://user-images.githubusercontent.com/52706075/199595310-f8894157-8388-428c-b1e5-5fe5e54f43a6.png)
 
 
 
