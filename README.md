@@ -7,6 +7,7 @@
 - 😄 Pronouns: YES
 - ⚡ Fun fact: I am funny, I love to laugh, I love to meet people, and I love to code.
 - Email: footandshadows@gmail.com
+- Mobile No.: +49(0)1796723519
 
 
 Languages and Tools:
