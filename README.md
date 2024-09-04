@@ -30,9 +30,6 @@ Languages and Tools:
 
 Example of Work :
 
-![portfolio (57)](https://user-images.githubusercontent.com/52706075/200582678-7e8f80e5-83c3-4742-afd9-57efce211500.png)
-
-![portfolio (28)](https://user-images.githubusercontent.com/52706075/199478446-9db1c7d9-a4e4-44fe-a6a5-41e0c2a11336.png)
 
 ![e-commerce2 (2)](https://user-images.githubusercontent.com/52706075/199478261-1bda1cad-9961-4c8e-8e2b-20cf2f810728.png)
 
