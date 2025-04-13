@@ -5,7 +5,7 @@
 - 💬 Ask me about: Front-end web Developer or (MERN-Stack Developer).
 - 😄 Pronouns: YES
 - ⚡ Fun fact: I am funny, I love to laugh, I love to meet people, and I love to code.
-- 🌱 I’m currently learning TypeScript and Python
+- 🌱 I’m currently learning Python and AI 
 - Email: footandshadows@gmail.com
 - Mobile No.: +49(0)1796723519
 
