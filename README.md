@@ -10,7 +10,7 @@
 - Mobile No.: +49(0)1796723519
 
 
-Languages and Tools:
+Skills:
 
 
 
