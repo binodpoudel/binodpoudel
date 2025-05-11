@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @binodpoudel
-- 🔭 I’m currently working on HTML, CSS, JavaScript, ReactJs, Bootstrap, Material UI, Redux, RestAPI, NodeJs, Express, PHP, Laravel, Python, SQL, MySQL and Mongodb.
+- 🔭 I’m currently working on HTML, CSS, JavaScript, ReactJs, Bootstrap, Material UI TypeScript, React Native, Redux, RestAPI, NodeJs, Express, PHP, Laravel, Python, Pandas, NumPy, AI, ML,Tableau, Matplotlib, Seaborn  SQL, MySQL and Mongodb.
 - 📫 How to reach me: email, LinkedIn, Xing and Indeed.
 - 🤔 I’m working as a Full stack developer.
 - 💬 Ask me about: Front-end web Developer or (MERN-Stack Developer).
