@@ -9,10 +9,7 @@
 - Email: footandshadows@gmail.com
 - Mobile No.: +49(0)1796723519
 
-
-Skills:
-
-
+## 🛠️ Technologies & Tools
 
 ![image](https://user-images.githubusercontent.com/52706075/199479221-eb49c50b-de69-404f-87be-19a21c9831b9.png)
 ![image](https://user-images.githubusercontent.com/52706075/199479481-f3a8aa9e-3edb-4db5-b0de-f507984293c1.png)
@@ -25,7 +22,35 @@ Skills:
 ![image](https://user-images.githubusercontent.com/52706075/199479908-66501df7-077c-4980-8417-cd7b063ce310.png)
 ![image](https://user-images.githubusercontent.com/52706075/199479967-13eba4b2-3fcf-4009-b825-3ed2b9ceadfd.png)
 ![image](https://user-images.githubusercontent.com/52706075/199480037-9093c3ab-8253-41af-8098-619903d5c18e.png)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+### Python Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Web Development
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-02569B?style=for-the-badge&logo=responsive-design&logoColor=white)
+
+### Development Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Debugging](https://img.shields.io/badge/Debugging-4B275F?style=for-the-badge&logo=debug&logoColor=white)
+
+### Backend & DevOps
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=rest-api&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Data Science & AI
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF9E0F?style=for-the-badge&logo=machine-learning&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F61?style=for-the-badge&logo=ai&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### System
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 Example of Work :
