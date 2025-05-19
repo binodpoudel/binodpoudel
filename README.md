@@ -8,6 +8,7 @@
 - 🌱 I am currently learning Python and working on projects related to Artificial Intelligence and Machine Learning.
 - Email: footandshadows@gmail.com
 - Mobile No.: +49(0)1796723519
+- Portfolio:- https://binodpoudel.github.io/portfoliopage-binod/
 
 ## 🛠️ Technologies & Tools
 
