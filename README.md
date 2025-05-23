@@ -45,7 +45,7 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-🚀##Work Showcase:-
+## 🚀Work Showcase:-
 
 
 ![Screenshot 2025-05-18 162211](https://github.com/user-attachments/assets/73c00a45-5bc3-42b9-b81d-4041fa90917b)
