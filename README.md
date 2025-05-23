@@ -45,7 +45,12 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-🚀Example of Work :
+🚀##Work Showcase:-
+
+
+![Screenshot 2025-05-18 162211](https://github.com/user-attachments/assets/73c00a45-5bc3-42b9-b81d-4041fa90917b)
+
+![Screenshot 2025-05-18 161938](https://github.com/user-attachments/assets/49ee59db-edda-4c72-8636-f23f7c9f3f6a)
 
 ![e-commerce2 (2)](https://user-images.githubusercontent.com/52706075/199478261-1bda1cad-9961-4c8e-8e2b-20cf2f810728.png)
 
