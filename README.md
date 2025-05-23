@@ -1,11 +1,14 @@
 - 👋 Hi, I’m @binodpoudel
-- 🔭 I’m currently working on HTML, CSS, JavaScript, ReactJs, Bootstrap, Material UI TypeScript, React Native, Redux, API, NodeJs, Express, PHP, Laravel, Python, Pandas, NumPy, AI, ML,Tableau, Matplotlib, Seaborn,  SQL, MySQL and Mongodb.
+- 🔭 I’m currently working with a wide range of technologies, including HTML, CSS, JavaScript, React.js, Bootstrap, 
+      Material UI, TypeScript, React Native, Redux, Context API, APIs, Node.js, Express, PHP, Laravel, Python, Pandas, 
+      NumPy, Artificial Intelligence, Machine Learning, Tableau, Matplotlib, Seaborn, SQL, MySQL, and MongoDB.
 - 📫 How to reach me: email, LinkedIn, Xing and Indeed.
 - 🤔 I’m working as a Full stack developer.
 - 💬 Ask me about: Front-end web Developer or (MERN-Stack Developer).
 - 😄 Pronouns: YES
 - ⚡ Fun fact: I am funny, I love to laugh, I love to meet people, and I love to code.
-- 🌱 I am currently learning Python and working on projects related to Artificial Intelligence and Machine Learning.
+- 🌱 I am currently expanding my skills in Python and applying them to projects focused on Artificial Intelligence 
+      and Machine Learning.
 - Email: footandshadows@gmail.com
 - Mobile No.: 01796723519
 
