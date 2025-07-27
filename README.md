@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @binodpoudel
 - 🔭 I’m currently working with a wide range of technologies, including HTML, CSS, JavaScript, React.js, Bootstrap, 
-      Material UI, TypeScript, React Native, Redux, Context API, APIs, Node.js, Express, PHP, Laravel, Python, Pandas, 
-      NumPy, Artificial Intelligence, Machine Learning, Tableau, Matplotlib, Seaborn, SQL, MySQL, and MongoDB.
+      Material UI, TypeScript, Next.js, React Native, Redux, Context API, APIs, Node.js, Express, PHP, Laravel, Python, Pandas, 
+      NumPy, Scikit-learn, TensorFlow, PyTorch, Artificial Intelligence(AI), Machine Learning(ML), Tableau, Matplotlib, Seaborn, SQL, MySQL, MongoDB, Docker, Git and AWS.
 - 📫 How to reach me: email, LinkedIn, Xing and Indeed.
-- 🤔 I’m working as a Full stack developer.
+- 🤔 I’m working as a Full Stack developer.
 - 💬 Ask me about: Front-end web Developer or (MERN-Stack Developer).
 - 😄 Pronouns: YES
 - ⚡ Fun fact: I am funny, I love to laugh, I love to meet people, and I love to code.
