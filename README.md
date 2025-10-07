@@ -4,11 +4,11 @@ I build clean, responsive, high-performance web applications, emphasizing excell
 
 ### 💻 What I Do
 
-- 🌐 Frontend: HTML5, CSS3, Tailwind CSS, JavaScript(ES6+), TypeScript, React, Next.js, React Native, React Router, Redux, Context API, Bootstrap, Material UI, animation.
-- 🖥️ Backend & APIs: Node.js, Express.js, REST APIs, JWT authentication, Python, PHP, Laravel.
-- 🗄️ Database: MongoDB, Mongoose, MySQL, SQL
-- 🤖 AI/ML: Python, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Streamlit, data visualization (matplotlib, seaborn), data-driven features.
-- 🧰 DevOps & Testing: Docker, GitHub, CI/CD, Jest, PyTest, Postman, Aws Basics.
+🌐 Frontend: HTML5, CSS3, Tailwind CSS, JavaScript(ES6+), TypeScript, React, Next.js, React Native, React Router, Redux, Context API, Bootstrap, Material UI, animation.
+🖥️ Backend & APIs: Node.js, Express.js, REST APIs, JWT authentication, Python, PHP, Laravel.
+🗄️ Database: MongoDB, Mongoose, MySQL, SQL
+🤖 AI/ML: Python, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Streamlit, data visualization (matplotlib, seaborn), data-driven features.
+🧰 DevOps & Testing: Docker, GitHub, CI/CD, Jest, PyTest, Postman, Aws Basics.
 
 ### 🚀 What I'm Looking For
 
@@ -22,15 +22,15 @@ I'm actively seeking **Frontend Developer roles** (remote or on-site) globally �
 | UI/UX, Animations | REST, APIs | Testing, Linters, ESLint, etc. |
 
 ### 📫 Contact Me
-- 📫 How to reach me: email, Phone, LinkedIn, Xing and Indeed.
-- 🌐 Portfolio: https://binodpoudel.github.io/portfoliopage-binod/  
-- 🤔 I’m working as a full-stack developer.
-- 💬 Ask me about: Front-end web Developer or (Full-Stack Developer).
-- 😄 Pronouns: YES
-- ⚡ Fun fact: I am funny, I love to laugh, I love to meet people, and I love to code.
-- 🌱 I'm also exploring Python and AI/ML to bring intelligent, data-driven features to the frontend.
-- 📧 Email: footandshadows@gmail.com
-- 📱Mobile No.: 01796723519
+ 📫 How to reach me: email, Phone, LinkedIn, Xing and Indeed.
+ 🌐 Portfolio: https://binodpoudel.github.io/portfoliopage-binod/  
+ 🤔 I’m working as a full-stack developer.
+ 💬 Ask me about: Front-end web Developer or (Full-Stack Developer).
+ 😄 Pronouns: YES
+ ⚡ Fun fact: I am funny, I love to laugh, I love to meet people, and I love to code.
+ 🌱 I'm also exploring Python and AI/ML to bring intelligent, data-driven features to the frontend.
+ 📧 Email: footandshadows@gmail.com
+ 📱Mobile No.: 01796723519
 
 ## 🛠️ Technologies & Tools
 ![image](https://user-images.githubusercontent.com/52706075/199479221-eb49c50b-de69-404f-87be-19a21c9831b9.png)
