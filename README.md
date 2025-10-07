@@ -23,7 +23,6 @@ I'm actively seeking **Frontend Developer roles** (remote or on-site) globally �
 
 ### 📫 Contact Me
 - 📫 How to reach me: email, Phone, LinkedIn, Xing and Indeed.
-- 📧 Email: footandshadows@gmail.com.com  
 - 🌐 Portfolio: https://binodpoudel.github.io/portfoliopage-binod/  
 - 🤔 I’m working as a full-stack developer.
 - 💬 Ask me about: Front-end web Developer or (Full-Stack Developer).
