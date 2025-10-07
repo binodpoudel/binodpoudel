@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @binodpoudel
 - 🔭 I’m currently working with a wide range of technologies, including HTML, CSS, JavaScript, React.js, Bootstrap, 
       Material UI, TypeScript, Next.js, React Native, Redux, Context API, APIs, Node.js, Express, PHP, Laravel, Python, Pandas, 
-      NumPy, Scikit-learn, TensorFlow, PyTorch, Artificial Intelligence(AI), Machine Learning(ML), Tableau, Matplotlib, Seaborn, SQL, MySQL, MongoDB, Docker, Git and AWS.
+      NumPy, Scikit-learn, TensorFlow, PyTorch, Artificial Intelligence(AI), Machine Learning(ML), Tableau, Matplotlib, Seaborn, SQL, MySQL, MongoDB, Docker, Git and AWS
 - 📫 How to reach me: email, LinkedIn, Xing and Indeed.
 - 🤔 I’m working as a Full Stack developer.
 - 💬 Ask me about: Front-end web Developer or (MERN-Stack Developer).
@@ -66,9 +66,7 @@
 
 ## 🚀Work Showcase:-
 
-
-![Screenshot 2025-05-18 162211](https://github.com/user-attachments/assets/73c00a45-5bc3-42b9-b81d-4041fa90917b)
-
+![Screenshot 2025-10-07 135950](https://github.com/user-attachments/assets/6869ecf5-d4de-4954-be48-1eed900ef32d)
 ![Screenshot 2025-05-18 161938](https://github.com/user-attachments/assets/49ee59db-edda-4c72-8636-f23f7c9f3f6a)
 
 ![e-commerce2 (2)](https://user-images.githubusercontent.com/52706075/199478261-1bda1cad-9961-4c8e-8e2b-20cf2f810728.png)
@@ -76,7 +74,6 @@
 ![online12](https://user-images.githubusercontent.com/52706075/199595697-772aedd6-285e-4f55-89b1-3ef4db370f91.png)
 
 ![Pizza](https://user-images.githubusercontent.com/52706075/199595044-cc6d19a5-9123-40eb-9d27-65a80fc8c030.png)
-
 
 ![Screenshot (23)](https://user-images.githubusercontent.com/52706075/199595135-2ca7f18c-e7b9-4462-a8a9-0555ac33c315.png)
 
