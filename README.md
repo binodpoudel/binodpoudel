@@ -1,16 +1,37 @@
-- 👋 Hi, I’m @binodpoudel
-- 🔭 I’m currently working with a wide range of technologies, including HTML, CSS, JavaScript, React.js, Bootstrap, 
-      Material UI, TypeScript, Next.js, React Native, Redux, Context API, APIs, Node.js, Express, PHP, Laravel, Python, Pandas, 
-      NumPy, Scikit-learn, TensorFlow, PyTorch, Artificial Intelligence(AI), Machine Learning(ML), Tableau, Matplotlib, Seaborn, SQL, MySQL, MongoDB, Docker, Git and AWS
-- 📫 How to reach me: email, LinkedIn, Xing and Indeed.
-- 🤔 I’m working as a Full Stack developer.
-- 💬 Ask me about: Front-end web Developer or (MERN-Stack Developer).
+## 👋 Hi, I’m Binod Poudel
+🔭 I’m a **Full‑Stack Software Developer** with a strong focus on **Frontend Development**, currently based in Berlin, Germany.  
+I build clean, responsive, high-performance web applications, emphasizing excellent user experiences.
+
+### 💻 What I Do
+
+- 🌐 Frontend: HTML5, CSS3, Tailwind CSS, JavaScript(ES6+), TypeScript, React, Next.js, React Native, React Router, Redux, Context API, Bootstrap, Material UI, animation.
+- 🖥️ Backend & APIs: Node.js, Express.js, REST APIs, JWT authentication, Python, PHP, Laravel.
+- 🗄️ Database: MongoDB, Mongoose, MySQL, SQL
+- 🤖 AI/ML: Python, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Streamlit, data visualization (matplotlib, seaborn), data-driven features.
+- 🧰 DevOps & Testing: Docker, GitHub, CI/CD, Jest, PyTest, Postman, Aws Basics.
+
+### 🚀 What I'm Looking For
+
+I'm actively seeking **Frontend Developer roles** (remote or on-site) globally — where I can bring frontend expertise + full-stack insights.
+
+### 🛠️ Tech Stack
+
+| Frontend | Backend / Others | Tools & DevOps |
+|----------|------------------|----------------|
+| React, Next.js, Tailwind | Node, Express, PHP, Laravel | Git, Docker, AWS, CI/CD |
+| UI/UX, Animations | REST, APIs | Testing, Linters, ESLint, etc. |
+
+### 📫 Contact Me
+- 📫 How to reach me: email, Phone, LinkedIn, Xing and Indeed.
+- 📧 Email: footandshadows@gmail.com.com  
+- 🌐 Portfolio: https://binodpoudel.github.io/portfoliopage-binod/  
+- 🤔 I’m working as a full-stack developer.
+- 💬 Ask me about: Front-end web Developer or (Full-Stack Developer).
 - 😄 Pronouns: YES
 - ⚡ Fun fact: I am funny, I love to laugh, I love to meet people, and I love to code.
-- 🌱 I am currently expanding my skills in Python and applying them to projects focused on Artificial Intelligence 
-      and Machine Learning.
-- Email: footandshadows@gmail.com
-- Mobile No.: 01796723519
+- 🌱 I'm also exploring Python and AI/ML to bring intelligent, data-driven features to the frontend.
+- 📧 Email: footandshadows@gmail.com
+- 📱Mobile No.: 01796723519
 
 ## 🛠️ Technologies & Tools
 ![image](https://user-images.githubusercontent.com/52706075/199479221-eb49c50b-de69-404f-87be-19a21c9831b9.png)
