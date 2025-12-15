@@ -30,7 +30,7 @@ I'm actively seeking **Frontend Developer roles** (remote or on-site) globally �
  - ⚡ Fun fact: I am funny, I love to laugh, I love to meet people, and I love to code.
  - 🌱 I'm also exploring Python and AI/ML to bring intelligent, data-driven features to the frontend.
  - 📧 Email: footandshadows@gmail.com
- - 📱Mobile No.: 01796723519
+ 
 
 ## 🛠️ Technologies & Tools
 ![image](https://user-images.githubusercontent.com/52706075/199479221-eb49c50b-de69-404f-87be-19a21c9831b9.png)
