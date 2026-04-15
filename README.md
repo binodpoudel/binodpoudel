@@ -18,7 +18,7 @@ I'm actively seeking **Frontend Developer roles** (remote or on-site) globally â
 
 | Frontend | Backend / Others | Tools & DevOps |
 |----------|------------------|----------------|
-| React, Next.js, Tailwind | Node, Express, PHP, Laravel | Git, Docker, AWS, CI/CD |
+|JavaScript, TypeScript, React, Next.js, Tailwind | Node, Express, PHP, Laravel | Git, Docker, AWS, CI/CD |
 | UI/UX, Animations | REST, APIs | Testing, Linters, ESLint, etc. |
 
 ### ðŸ“« Contact Me
