@@ -1,35 +1,47 @@
 ## 👋 Hi, I’m Binod Poudel
-🔭 I’m a **Full‑Stack Software Developer** with a strong focus on **Frontend Development**, currently based in Berlin, Germany.  
-I build clean, responsive, high-performance web applications, emphasizing excellent user experiences.
+🔭 I’m a **Frontend-focused Software Developer with full-stack capabilities**, currently based in Berlin, Germany.  
+I build clean, responsive, high-performance web applications with a strong focus on excellent user experience and frontend architecture.
 
 ### 💻 What I Do
 
-- 🌐 Frontend: HTML5, CSS3, Tailwind CSS, JavaScript(ES6+), TypeScript, React, Next.js, React Native, React Router, Redux, Context API, Bootstrap, Material UI, animation.
-- Additional: Development and customization of rich text editors using Remirror (ProseMirror-based) in a client–server architecture
-- 🖥️ Backend & APIs: Node.js, Express.js, REST APIs, JWT authentication, Python, PHP, Laravel.
-- 🗄️ Database: MongoDB, Mongoose, MySQL, SQL
-- 🤖 AI/ML: Python, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Streamlit, data visualization (matplotlib, seaborn), data-driven features.
-- 🧰 DevOps & Testing: Docker, GitHub, CI/CD, Jest, PyTest, Postman, Aws Basics.
+- 🌐 Frontend (Primary Focus)  
+React, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3  
+State Management: Redux, Context API  
+UI Libraries: Material UI, Bootstrap  
+Routing & UX: React Router, Responsive Design, Animations  
+Rich Text Editor Development: Remirror (ProseMirror-based), including customization in client–server architectures  
+
+- 🖥️ Backend (Supporting Skills)  
+Node.js, Express.js, REST APIs, JWT Authentication  
+
+- 🗄️ Databases  
+MongoDB (Mongoose), MySQL  
+
+- 🧰 Tools & DevOps  
+GitHub, CI/CD, Docker, Postman, AWS (Basics), Jest, PyTest  
+
+- 🤖 Additional Experience  
+Python (data analysis, basic ML concepts)
 
 ### 🚀 What I'm Looking For
 
-I'm actively seeking **Frontend Developer roles** (remote or on-site) globally — where I can bring frontend expertise + full-stack insights.
+Frontend Developer roles (React, Next.js, TypeScript), remote or on-site, where I can build scalable, high-performance user interfaces and contribute with solid full-stack understanding.
 
 ### 🛠️ Tech Stack
 
 | Frontend | Backend / Others | Tools & DevOps |
 |----------|------------------|----------------|
-|JavaScript, TypeScript, React, Next.js, Tailwind | Node, Express, PHP, Laravel, Python | Git, Docker, AWS, CI/CD |
-| UI/UX, Animations | REST, APIs | Testing, Linters, ESLint, etc. |
+|JavaScript, TypeScript, React, Next.js, Tailwind | Node, Express, PHP, Laravel, Python, REST, APIs | Git, Docker, AWS, CI/CD |
+|Responsive Design, Component Development, UI/UX, Animations, Remirror (ProseMirror-based) | MongoDB, MySQL  | Testing (Jest, PyTest), Postman, ESLint |
 
 ### 📫 Contact Me
  - 📫 How to reach me: email, Phone, LinkedIn, Xing and Indeed.
  - 🌐 Portfolio: https://binodpoudel.github.io/portfoliopage-binod/  
- - 🤔 I’m working as a full-stack developer.
- - 💬 Ask me about: Front-end web Developer or (Full-Stack Developer).
+ - 🤔 I work as a full-stack developer with a strong focus on frontend development.
+ - 💬 Ask me about: Frontend development (React, Next.js, TypeScript) and full-stack web applications.
  - 😄 Pronouns: YES
- - ⚡ Fun fact: I am funny, I love to laugh, I love to meet people, and I love to code.
- - 🌱 I'm also exploring Python and AI/ML to bring intelligent, data-driven features to the frontend.
+ - ⚡ Fun fact: I enjoy coding, collaborating with people, and continuously learning new technologies through real-world projects.
+ - 🌱 I’m also exploring Python and AI/ML for data-driven frontend features 
  - 📧 Email: footandshadows@gmail.com
  
 
