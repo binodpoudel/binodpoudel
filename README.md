@@ -24,7 +24,7 @@ Frontend Developer roles (React, Next.js, TypeScript), remote or on-site, where 
 
 ### 🛠️ Tech Stack
 
-| Frontend(Primary Focus) | Backend / Others | Tools & DevOps |
+| Frontend (Primary Focus) | Backend / Others | Tools & DevOps |
 |----------|------------------|----------------|
 |JavaScript, TypeScript, React, Next.js, Tailwind | Node, Express, PHP, Laravel, Python, REST, APIs | Git, Docker, AWS, CI/CD |
 |Responsive Design, Component Development, UI/UX, Animations, Remirror (ProseMirror-based) | MongoDB, MySQL  | Testing (Jest, PyTest), Postman, ESLint |
