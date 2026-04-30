@@ -1,27 +1,22 @@
 ## 👋 Hi, I’m Binod Poudel
 🔭 I’m a **Frontend-focused Software Developer with full-stack capabilities**, currently based in Berlin, Germany.  
-I build clean, responsive, high-performance web applications with a strong focus on excellent user experience and frontend architecture.
+I build clean, responsive, high-performance web applications with a strong focus on user experience and frontend architecture.
 
 ### 💻 What I Do
 
-- 🌐 Frontend (Primary Focus)  
-React, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3  
-State Management: Redux, Context API  
-UI Libraries: Material UI, Bootstrap  
-Routing & UX: React Router, Responsive Design, Animations  
-Rich Text Editor Development: Remirror (ProseMirror-based), including customization in client–server architectures  
+- 🌐 Frontend (Primary Focus):- React, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3  
+     State Management: Redux, Context API  
+     UI Libraries: Material UI, Bootstrap  
+     Routing & UX: React Router, Responsive Design, Animations  
+     Rich Text Editor Development: Remirror (ProseMirror-based), including customization in client–server architectures  
 
-- 🖥️ Backend (Supporting Skills)  
-Node.js, Express.js, REST APIs, JWT Authentication  
+- 🖥️ Backend (Supporting Skills):- Node.js, Express.js, REST APIs, JWT Authentication  
 
-- 🗄️ Databases  
-MongoDB (Mongoose), MySQL  
+- 🗄️ Databases:- MongoDB (Mongoose), MySQL  
 
-- 🧰 Tools & DevOps  
-GitHub, CI/CD, Docker, Postman, AWS (Basics), Jest, PyTest  
+- 🧰 Tools & DevOps:- GitHub, CI/CD, Docker, Postman, AWS, Jest, PyTest  
 
-- 🤖 Additional Experience  
-Python (data analysis, basic ML concepts)
+- 🤖 Additional Experience:- Python (data analysis, basic ML concepts)
 
 ### 🚀 What I'm Looking For
 
