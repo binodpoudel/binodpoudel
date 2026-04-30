@@ -5,10 +5,10 @@ I build clean, responsive, high-performance web applications with a strong focus
 ### 💻 What I Do
 
 - 🌐 Frontend (Primary Focus):- React, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3  
-     State Management: Redux, Context API  
-     UI Libraries: Material UI, Bootstrap  
-     Routing & UX: React Router, Responsive Design, Animations  
-     Rich Text Editor Development: Remirror (ProseMirror-based), including customization in client–server architectures  
+      State Management:- Redux, Context API. 
+      UI Libraries:- Material UI, Bootstrap.  
+      Routing & UX:- React Router, Responsive Design, Animations.  
+      Rich Text Editor Development:- Remirror (ProseMirror-based), including customization in client–server architectures.  
 
 - 🖥️ Backend (Supporting Skills):- Node.js, Express.js, REST APIs, JWT Authentication  
 
