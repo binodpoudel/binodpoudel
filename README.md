@@ -5,6 +5,7 @@ I build clean, responsive, high-performance web applications, emphasizing excell
 ### 💻 What I Do
 
 - 🌐 Frontend: HTML5, CSS3, Tailwind CSS, JavaScript(ES6+), TypeScript, React, Next.js, React Native, React Router, Redux, Context API, Bootstrap, Material UI, animation.
+- Additional: Development and customization of rich text editors using Remirror (ProseMirror-based) in a client–server architecture
 - 🖥️ Backend & APIs: Node.js, Express.js, REST APIs, JWT authentication, Python, PHP, Laravel.
 - 🗄️ Database: MongoDB, Mongoose, MySQL, SQL
 - 🤖 AI/ML: Python, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Streamlit, data visualization (matplotlib, seaborn), data-driven features.
@@ -18,12 +19,12 @@ I'm actively seeking **Frontend Developer roles** (remote or on-site) globally �
 
 | Frontend | Backend / Others | Tools & DevOps |
 |----------|------------------|----------------|
-|JavaScript, TypeScript, React, Next.js, Tailwind | Node, Express, PHP, Laravel | Git, Docker, AWS, CI/CD |
+|JavaScript, TypeScript, React, Next.js, Tailwind | Node, Express, PHP, Laravel, Python | Git, Docker, AWS, CI/CD |
 | UI/UX, Animations | REST, APIs | Testing, Linters, ESLint, etc. |
 
 ### 📫 Contact Me
  - 📫 How to reach me: email, Phone, LinkedIn, Xing and Indeed.
- - 🌐 Portfolio: https://binodpoudel.github.io/portfoliopage-binod/  
+ - 🌐 Portfolio:  
  - 🤔 I’m working as a full-stack developer.
  - 💬 Ask me about: Front-end web Developer or (Full-Stack Developer).
  - 😄 Pronouns: YES
